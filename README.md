@@ -22,7 +22,7 @@ El objetivo principal del proyecto es la implementación de **testing automatiza
 
 ## Instalación y Uso de Cypress
 ### 1. Clonar el repositorio
-git clone https://github.com/Hugo9591/Testing-Cypres
+git clone https://github.com/Hugo9591/Testing-Cypress.git
 
 ### 2. Instalar dependencias
 Si el proyecto usa `package.json`, instala las dependencias con:
